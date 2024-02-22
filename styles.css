@@ -1,0 +1,17 @@
+/* front page */
+
+
+#title {
+    text-align: center;
+}
+
+#front-page-links {
+    text-align: center;
+    list-style: none;
+}
+
+/* foods */
+
+.wow {
+    color: white;
+}

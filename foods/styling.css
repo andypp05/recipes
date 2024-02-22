@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 44px;
+}
+
+
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+}
+
+.contents {
+    text-align: center
+}
+
+.list.ingredients {
+    list-style: none;
+}
